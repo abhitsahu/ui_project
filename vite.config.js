@@ -11,6 +11,10 @@ export default defineConfig({
     include: ["framer-motion", "lucide-react"],
   },
   build: {
+    outDir: "dist",
+    rollupOptions: {
+      input: "index.html",
+    },
     commonjsOptions: {
       transformMixedEsModules: true,
     },
