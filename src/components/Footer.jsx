@@ -1,7 +1,7 @@
-// src/components/Footer.jsx
+
 import React from "react";
 
-// src/components/Footer.jsx
+
 function Footer() {
     return (
         

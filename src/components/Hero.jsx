@@ -1,6 +1,4 @@
 import React from "react";
-// src/pages/Home.jsx
-// src/components/Hero.jsx
 import { motion } from "framer-motion";
 
 function Hero() {
